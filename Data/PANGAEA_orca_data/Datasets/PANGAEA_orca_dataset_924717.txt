@@ -1,0 +1,24 @@
+DATE/TIME	LATITUDE	LONGITUDE	Whale species	Certainty of identification	Individuals [#]	Event
+2007-06-04 05:20:00	67.50495	9.35595	Balaenoptera acutorostrata	definite	1	PS70/1a-track
+2007-06-04 15:25:00	67.5056	9.422	Balaenoptera acutorostrata	definite	1	PS70/1a-track
+2007-06-05 08:15:00	69.20242	13.04078	Physeter macrocephalus	possible	1	PS70/1a-track
+2007-06-05 20:50:00	69.39683	13.23727	Physeter macrocephalus	possible	1	PS70/1a-track
+2007-06-07 07:25:00	68.9895	13.9824	Orcinus orca	definite	3	PS70/1a-track
+2007-06-08 01:45:00	69.08278	13.95012	Orcinus orca	definite	6	PS70/1a-track
+2007-06-08 20:28:00	67.5567	9.57492	Orcinus orca	definite	6	PS70/1a-track
+2007-06-11 05:30:00	67.55992	9.54488	Physeter macrocephalus	definite	1	PS70/1a-track
+2007-06-15 17:00:00	67.52123	9.4741	Globicephala melas	definite	12	PS70/1a-track
+2007-06-16 00:11:00	67.86102	8.58533	Orcinus orca	definite	2	PS70/1a-track
+2007-06-16 05:30:00	67.60802	9.27895	Orcinus orca	definite	6	PS70/1a-track
+2007-06-16 09:00:00	67.53568	9.50832	Globicephala melas	definite	12	PS70/1a-track
+2007-06-17 19:25:00	69.45125	14.52235	Large whale, unidentified	definite	1	PS70/1a-track
+2007-06-19 05:15:00	70.74423	18.73178	Balaenoptera acutorostrata	definite	2	PS70/1a-track
+2007-06-19 13:55:00	70.70647	18.62968	Physeter macrocephalus	definite	1	PS70/1a-track
+2007-06-19 14:30:00	70.75708	18.67518	Physeter macrocephalus	definite	1	PS70/1a-track
+2007-06-19 14:30:00	70.75708	18.67518	Balaenoptera acutorostrata	definite	1	PS70/1a-track
+2007-06-19 21:10:00	70.761	18.66907	Balaenoptera physalus	probable	7	PS70/1a-track
+2007-06-20 03:00:00	70.83245	18.73865	Balaenoptera physalus	definite	2	PS70/1a-track
+2007-06-20 13:45:00	70.78828	18.77022	Megaptera novaeangliae	definite	2	PS70/1a-track
+2007-06-20 22:15:00	70.76758	18.8152	Balaenoptera physalus	possible	2	PS70/1a-track
+2007-06-20 22:15:00	70.76758	18.8152	Dolphins, unidentified	definite	20	PS70/1a-track
+2007-06-20 22:15:00	70.76758	18.8152	Megaptera novaeangliae	definite	5	PS70/1a-track

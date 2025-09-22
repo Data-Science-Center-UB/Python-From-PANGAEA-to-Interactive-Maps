@@ -1,0 +1,13 @@
+DATE/TIME	LATITUDE	LONGITUDE	Whale species	Certainty of identification	Individuals [#]	Event
+2017-06-23 16:10:00	77.97848	12.61468	Balaenoptera acutorostrata	definite	2	PS106/2-track
+2017-06-24 05:30:00	76.15733	17.20075	Dolphins, unidentified	definite	10	PS106/2-track
+2017-06-24 05:39:00	76.15808	17.30563	Balaenoptera acutorostrata	definite	1	PS106/2-track
+2017-06-24 05:57:00	76.15968	17.52807	Balaenoptera acutorostrata	definite	10	PS106/2-track
+2017-06-24 05:59:00	76.15982	17.55113	Small whale, unidentified	definite	5	PS106/2-track
+2017-06-25 02:59:00	77.24337	28.39047	Balaenoptera acutorostrata	probable	2	PS106/2-track
+2017-06-25 03:05:00	77.2572	28.44358	Balaenoptera acutorostrata	probable	2	PS106/2-track
+2017-06-25 03:12:00	77.27382	28.50653	Balaenoptera acutorostrata	possible	1	PS106/2-track
+2017-06-25 23:50:00	78.09533	30.45212	Balaenoptera acutorostrata	definite	1	PS106/2-track
+2017-06-26 00:06:00	78.09632	30.4535	Balaenoptera acutorostrata	definite	1	PS106/2-track
+2017-06-26 01:32:00	78.10167	30.46872	Balaenoptera acutorostrata	definite	1	PS106/2-track
+2017-07-13 22:40:00	81.21777	20.2732	Balaenoptera acutorostrata	definite	1	PS106/2-track

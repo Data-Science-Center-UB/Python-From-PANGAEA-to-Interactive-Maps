@@ -1,0 +1,8 @@
+DATE/TIME	LATITUDE	LONGITUDE	Whale species	Certainty of identification	Individuals [#]	Event
+2015-06-29 11:06:00	78.2321	14.87578	Balaenoptera acutorostrata	probable	3	PS93.1-track
+2015-06-29 22:37:00	78.86222	7.5671	Large whale, unidentified	definite	3	PS93.1-track
+2015-06-29 22:37:00	78.8623	7.56572	Large whale, unidentified	definite	2	PS93.1-track
+2015-06-30 00:20:00	78.95638	6.14417	Balaenoptera physalus	definite	1	PS93.1-track
+2015-06-30 00:35:00	78.96952	5.93703	Balaenoptera physalus	definite	1	PS93.1-track
+2015-06-30 03:26:00	78.7351	6.69933	Physeter macrocephalus	probable	1	PS93.1-track
+2015-06-30 13:51:00	78.8246	6.22783	Large whale, unidentified	definite	1	PS93.1-track

@@ -1,0 +1,9 @@
+DATE/TIME	LATITUDE	LONGITUDE	Whale species	Certainty of identification	Individuals [#]	Event
+2008-07-04 19:04:00	78.1404	13.65572	Balaenoptera physalus	definite	2	PS72/2-track
+2008-07-08 09:00:00	79.04848	7.03495	Balaenoptera acutorostrata	definite	1	PS72/2-track
+2008-07-08 14:15:00	78.91883	7.04368	Balaenoptera physalus	definite	1	PS72/2-track
+2008-07-11 22:10:00	79.12868	5.69862	Balaenoptera physalus	definite	1	PS72/2-track
+2008-07-15 19:40:00	78.8339	3.01235	Balaenoptera musculus	definite	1	PS72/2-track
+2008-08-04 07:20:00	79.09317	8.6936	Balaenoptera physalus	definite	2	PS72/2-track
+2008-08-09 12:35:00	67.83277	-23.72808	Balaenoptera physalus	definite	1	PS72/2-track
+2008-08-09 12:35:00	67.83277	-23.72808	Megaptera novaeangliae	definite	1	PS72/2-track

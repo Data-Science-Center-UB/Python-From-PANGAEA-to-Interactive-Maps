@@ -1,0 +1,11 @@
+DATE/TIME	LATITUDE	LONGITUDE	Whale species	Certainty of identification	Individuals [#]	Event
+2018-08-05 16:23:00	70.00835	20.04942	Balaenoptera acutorostrata	definite	1	PS115/1-track
+2018-08-06 02:05:00	71.13038	16.85015	Orcinus orca	definite	4	PS115/1-track
+2018-08-06 14:20:00	72.62285	11.31533	Physeter macrocephalus	probable	1	PS115/1-track
+2018-08-07 02:33:00	74.16528	5.74533	Dolphins, unidentified	definite	5	PS115/1-track
+2018-08-07 07:52:00	74.78093	3.11557	Balaenoptera physalus	probable	2	PS115/1-track
+2018-08-07 15:36:00	75.3248	1.77657	Balaenoptera acutorostrata	definite	1	PS115/1-track
+2018-08-08 14:12:00	76.37808	-4.6003	Balaenoptera acutorostrata	possible	2	PS115/1-track
+2018-08-15 15:30:00	82.25992	-9.58598	Physeter macrocephalus	possible	1	PS115/1-track
+2018-09-01 11:35:00	76.34988	-6.39675	Balaenoptera physalus	definite	2	PS115/1-track
+2018-09-03 04:24:00	78.20735	14.43385	Megaptera novaeangliae	probable	2	PS115/1-track

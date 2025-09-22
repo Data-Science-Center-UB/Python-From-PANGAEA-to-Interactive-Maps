@@ -1,0 +1,26 @@
+DATE/TIME	LATITUDE	LONGITUDE	Whale species	Certainty of identification	Individuals [#]	Event
+2016-06-17 19:57:00	69.68787	9.94335	Orcinus orca	definite	10	PS99.1-track
+2016-06-19 02:58:00	74.51515	15.88732	Balaenoptera acutorostrata	definite	3	PS99.1-track
+2016-06-19 16:16:00	74.84158	17.64587	Large whale, unidentified	definite	1	PS99.1-track
+2016-06-19 16:29:00	74.8415	17.65185	Megaptera novaeangliae	probable	1	PS99.1-track
+2016-06-20 08:47:00	74.86393	17.64258	Megaptera novaeangliae	possible	1	PS99.1-track
+2016-06-21 07:35:00	75.25953	15.65	Dolphins, unidentified	definite	5	PS99.1-track
+2016-06-21 08:06:00	75.33535	15.54482	Whale, unidentified	definite	2	PS99.1-track
+2016-06-21 10:23:00	75.68155	15.06485	Dolphins, unidentified	definite	5	PS99.1-track
+2016-06-22 00:05:00	76.47665	14.33997	Large whale, unidentified	definite	1	PS99.1-track
+2016-06-22 00:56:00	76.48242	14.44545	Balaenoptera physalus	probable	1	PS99.1-track
+2016-06-22 01:20:00	76.46142	14.26495	Balaenoptera physalus	definite	2	PS99.1-track
+2016-06-22 09:20:00	77.01182	12.24865	Megaptera novaeangliae	probable	2	PS99.1-track
+2016-06-22 10:46:00	77.22923	11.58478	Balaenoptera physalus	probable	2	PS99.1-track
+2016-06-22 11:34:00	77.35022	11.19428	Balaenoptera physalus	probable	1	PS99.1-track
+2016-06-22 12:08:00	77.43158	10.93037	Balaenoptera physalus	definite	1	PS99.1-track
+2016-06-22 12:38:00	77.51188	10.70578	Balaenoptera physalus	probable	2	PS99.1-track
+2016-06-22 12:39:00	77.51222	10.7047	Balaenoptera physalus	probable	1	PS99.1-track
+2016-06-22 12:43:00	77.52465	10.66558	Physeter macrocephalus	probable	1	PS99.1-track
+2016-06-22 13:08:00	77.58855	10.46403	Large whale, unidentified	definite	1	PS99.1-track
+2016-06-22 13:15:00	77.60457	10.41368	Balaenoptera acutorostrata	definite	1	PS99.1-track
+2016-06-22 13:19:00	77.61558	10.38353	Balaenoptera acutorostrata	probable	1	PS99.1-track
+2016-06-22 13:20:00	77.61877	10.37635	Balaenoptera acutorostrata	definite	2	PS99.1-track
+2016-06-22 16:15:00	77.65063	10.2785	Large whale, unidentified	definite	3	PS99.1-track
+2016-06-22 16:22:00	77.65045	10.27752	Whale, unidentified	definite	1	PS99.1-track
+2016-06-22 19:26:00	77.67168	10.3809	Balaenoptera physalus	probable	10	PS99.1-track

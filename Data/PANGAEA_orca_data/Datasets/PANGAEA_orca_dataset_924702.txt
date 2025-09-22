@@ -1,0 +1,34 @@
+DATE/TIME	LATITUDE	LONGITUDE	Whale species	Certainty of identification	Individuals [#]	Event
+2016-06-24 21:52:00	78.1834	9.7081	Balaenoptera physalus	probable	1	PS99.2-track
+2016-06-24 22:23:00	78.22028	9.3128	Large whale, unidentified	definite	2	PS99.2-track
+2016-06-24 22:34:00	78.23325	9.17268	Large whale, unidentified	definite	1	PS99.2-track
+2016-06-24 22:53:00	78.2564	8.92447	Large whale, unidentified	definite	1	PS99.2-track
+2016-06-24 22:54:00	78.25678	8.92063	Dolphins, unidentified	definite	5	PS99.2-track
+2016-06-24 22:54:00	78.25792	8.9087	Large whale, unidentified	definite	2	PS99.2-track
+2016-06-24 23:01:00	78.26538	8.82702	Dolphins, unidentified	definite	3	PS99.2-track
+2016-06-25 00:46:00	78.38985	7.48215	Balaenoptera physalus	definite	1	PS99.2-track
+2016-06-25 01:07:00	78.41402	7.2202	Dolphins, unidentified	definite	2	PS99.2-track
+2016-06-25 01:10:00	78.41663	7.1909	Dolphins, unidentified	definite	3	PS99.2-track
+2016-07-04 23:25:00	79.69008	4.71735	Balaenoptera physalus	definite	1	PS99.2-track
+2016-07-05 07:25:00	79.73663	4.48997	Whale, unidentified	definite	1	PS99.2-track
+2016-07-05 10:17:00	79.75258	4.4866	Balaenoptera physalus	possible	1	PS99.2-track
+2016-07-05 10:52:00	79.73588	4.44647	Balaenoptera physalus	possible	1	PS99.2-track
+2016-07-05 15:19:00	79.73763	4.43343	Balaenoptera acutorostrata	definite	1	PS99.2-track
+2016-07-05 15:30:00	79.73718	4.43173	Balaenoptera physalus	definite	1	PS99.2-track
+2016-07-05 18:00:00	79.6782	4.75653	Balaenoptera physalus	definite	3	PS99.2-track
+2016-07-06 01:27:00	79.46098	5.16803	Balaenoptera physalus	possible	4	PS99.2-track
+2016-07-06 01:37:00	79.43577	5.14378	Balaenoptera physalus	possible	1	PS99.2-track
+2016-07-06 01:44:00	79.4168	5.12517	Balaenoptera physalus	possible	2	PS99.2-track
+2016-07-06 01:53:00	79.39497	5.10335	Balaenoptera physalus	possible	1	PS99.2-track
+2016-07-06 10:55:00	79.04352	4.49813	Balaenoptera physalus	definite	1	PS99.2-track
+2016-07-08 13:50:00	79.07092	6.14278	Whale, unidentified	definite	1	PS99.2-track
+2016-07-08 14:26:00	79.08232	6.39628	Megaptera novaeangliae	definite	3	PS99.2-track
+2016-07-08 14:42:00	79.06175	6.61332	Whale, unidentified	definite	1	PS99.2-track
+2016-07-08 23:33:00	79.01172	7.75838	Balaenoptera physalus	possible	1	PS99.2-track
+2016-07-08 23:49:00	79.00638	7.9791	Balaenoptera physalus	possible	1	PS99.2-track
+2016-07-09 18:29:00	79.03425	9.07548	Balaenoptera physalus	possible	1	PS99.2-track
+2016-07-09 20:33:00	79.10113	7.16525	Balaenoptera physalus	probable	1	PS99.2-track
+2016-07-12 09:16:00	79.0519	4.46418	Dolphins, unidentified	definite	10	PS99.2-track
+2016-07-12 20:54:00	78.96418	4.33672	Dolphins, unidentified	definite	5	PS99.2-track
+2016-07-12 21:45:00	78.84342	4.56453	Balaenoptera physalus	definite	2	PS99.2-track
+2016-07-13 23:09:00	75.32267	10.30448	Dolphins, unidentified	definite	4	PS99.2-track

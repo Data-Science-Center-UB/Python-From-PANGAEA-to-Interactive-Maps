@@ -1,0 +1,7 @@
+DATE/TIME	LATITUDE	LONGITUDE	Whale species	Certainty of identification	Individuals [#]	Event
+2017-08-24 00:56:00	75.42575	12.70253	Dolphins, unidentified	definite	5	PS108-track
+2017-08-24 01:15:00	75.4829	12.58007	Dolphins, unidentified	definite	5	PS108-track
+2017-08-24 11:01:00	77.24477	8.5637	Balaenoptera physalus	probable	2	PS108-track
+2017-08-25 03:40:00	78.9622	4.36818	Large whale, unidentified	definite	1	PS108-track
+2017-08-29 02:11:00	78.62345	9.2003	Dolphins, unidentified	definite	5	PS108-track
+2017-09-04 12:58:00	78.66112	9.41937	Dolphins, unidentified	definite	10	PS108-track

@@ -1,0 +1,6 @@
+DATE/TIME	LATITUDE	LONGITUDE	Whale species	Certainty of identification	Individuals [#]	Event
+2008-06-28 20:30:00	74.99183	6.1096	Balaenoptera acutorostrata	probable	2	PS72/1-track
+2008-06-28 22:52:00	74.97332	6.00822	Balaenoptera acutorostrata	probable	5	PS72/1-track
+2008-06-30 00:35:00	75.0007	11.29818	Balaenoptera acutorostrata	probable	4	PS72/1-track
+2008-06-30 15:10:00	74.99987	15.47677	Balaenoptera acutorostrata	probable	5	PS72/1-track
+2008-07-01 09:35:00	76.63815	14.04988	Balaenoptera acutorostrata	probable	3	PS72/1-track

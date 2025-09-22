@@ -1,0 +1,27 @@
+DATE/TIME	LATITUDE	LONGITUDE	Whale species	Certainty of identification	Individuals [#]	Event
+2017-07-24 18:17:00	74.21807	15.18017	Balaenoptera acutorostrata	possible	2	PS107-track
+2017-07-26 07:59:00	78.60918	5.05665	Balaenoptera acutorostrata	possible	4	PS107-track
+2017-07-26 08:31:00	78.60907	5.05388	Balaenoptera physalus	possible	1	PS107-track
+2017-07-27 07:55:00	78.98978	4.36935	Balaenoptera musculus	probable	1	PS107-track
+2017-08-11 03:23:00	79.01715	4.37435	Balaenoptera physalus	probable	1	PS107-track
+2017-08-11 03:29:00	79.00598	4.3471	Balaenoptera physalus	probable	1	PS107-track
+2017-08-11 04:32:00	79.00023	4.33413	Balaenoptera physalus	probable	5	PS107-track
+2017-08-11 04:46:00	79.00012	4.3336	Balaenoptera physalus	probable	10	PS107-track
+2017-08-11 07:45:00	79.02283	4.26305	Balaenoptera physalus	definite	5	PS107-track
+2017-08-11 09:54:00	79.02317	4.40422	Balaenoptera physalus	definite	4	PS107-track
+2017-08-13 11:20:00	79.03362	7.00322	Balaenoptera physalus	definite	2	PS107-track
+2017-08-13 11:25:00	79.0335	7.00253	Balaenoptera physalus	definite	2	PS107-track
+2017-08-13 18:35:00	79.03353	7.00387	Balaenoptera physalus	probable	4	PS107-track
+2017-08-13 23:41:00	79.00532	8.3119	Dolphins, unidentified	definite	10	PS107-track
+2017-08-14 12:34:00	79.0236	6.91813	Balaenoptera physalus	probable	2	PS107-track
+2017-08-14 13:27:00	79.0157	7.53893	Balaenoptera physalus	definite	1	PS107-track
+2017-08-14 15:08:00	78.99787	8.67757	Large whale, unidentified	definite	1	PS107-track
+2017-08-14 17:37:00	78.98195	9.5104	Large whale, unidentified	definite	1	PS107-track
+2017-08-14 20:09:00	78.98102	9.49688	Megaptera novaeangliae	definite	2	PS107-track
+2017-08-15 10:10:00	79.01177	6.96503	Balaenoptera musculus	definite	2	PS107-track
+2017-08-15 11:50:00	78.80785	8.037	Dolphins, unidentified	definite	10	PS107-track
+2017-08-15 12:08:00	78.76012	8.28283	Balaenoptera physalus	definite	1	PS107-track
+2017-08-15 13:28:00	78.54332	9.39503	Balaenoptera musculus	definite	1	PS107-track
+2017-08-15 14:58:00	78.29325	10.6582	Balaenoptera acutorostrata	probable	1	PS107-track
+2017-08-17 01:05:00	76.99472	13.41635	Dolphins, unidentified	definite	5	PS107-track
+2017-08-17 17:24:00	74.21817	17.3924	Dolphins, unidentified	definite	5	PS107-track

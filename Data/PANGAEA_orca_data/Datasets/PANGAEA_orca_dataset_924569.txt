@@ -1,0 +1,13 @@
+DATE/TIME	LATITUDE	LONGITUDE	Whale species	Certainty of identification	Individuals [#]	Event
+2018-09-07 20:41:00	82.1271	56.28178	Balaenoptera physalus	possible	1	PS115/2-track
+2018-09-07 20:57:00	82.13757	56.6716	Large whale, unidentified	definite	1	PS115/2-track
+2018-09-10 23:45:00	82.4962	70.10542	Whale, unidentified	definite	1	PS115/2-track
+2018-09-13 10:37:00	81.41128	98.8057	Delphinapterus leucas	possible	1	PS115/2-track
+2018-10-08 06:33:00	77.27212	29.64337	Balaenoptera physalus	definite	2	PS115/2-track
+2018-10-08 09:36:00	76.95952	29.1678	Megaptera novaeangliae	probable	1	PS115/2-track
+2018-10-08 09:49:00	76.9233	29.11525	Megaptera novaeangliae	definite	2	PS115/2-track
+2018-10-08 09:56:00	76.90362	29.0861	Megaptera novaeangliae	probable	1	PS115/2-track
+2018-10-08 12:16:00	76.50878	28.48935	Balaenoptera acutorostrata	probable	1	PS115/2-track
+2018-10-08 14:58:00	76.0458	27.8198	Megaptera novaeangliae	definite	3	PS115/2-track
+2018-10-11 09:53:00	69.74747	14.65673	Physeter macrocephalus	definite	1	PS115/2-track
+2018-10-11 13:25:00	69.28958	13.2414	Physeter macrocephalus	definite	1	PS115/2-track

@@ -1,0 +1,32 @@
+DATE/TIME	LATITUDE	LONGITUDE	Whale species	Certainty of identification	Individuals [#]	Event
+2012-08-02 23:05:23	71.78313	19.13087	Whale, unidentified	definite	1	PS80/3-track
+2012-08-02 23:36:09	71.85623	19.08027	Large whale, unidentified	definite	1	PS80/3-track
+2012-08-03 01:23:07	72.10516	18.90633	Whale, unidentified	definite	1	PS80/3-track
+2012-08-03 05:26:32	72.65326	18.51522	Balaenoptera physalus	probable	4	PS80/3-track
+2012-08-03 06:34:48	72.80878	18.40191	Whale, unidentified	definite	1	PS80/3-track
+2012-08-03 06:36:42	72.81318	18.39861	Whale, unidentified	definite	1	PS80/3-track
+2012-08-03 09:45:13	73.14409	18.16729	Whale, unidentified	definite	1	PS80/3-track
+2012-08-03 12:59:02	73.59018	17.99786	Whale, unidentified	definite	1	PS80/3-track
+2012-08-03 15:30:07	73.95806	18.5086	Megaptera novaeangliae	definite	3	PS80/3-track
+2012-08-03 15:35:26	73.97337	18.53026	Megaptera novaeangliae	definite	5	PS80/3-track
+2012-08-03 21:26:24	74.9366	18.97564	Dolphins, unidentified	definite	5	PS80/3-track
+2012-08-04 01:20:25	75.6033	20.43932	Small whale, unidentified	definite	1	PS80/3-track
+2012-08-04 04:52:15	76.20285	21.86682	Megaptera novaeangliae	definite	1	PS80/3-track
+2012-08-04 06:10:12	76.41654	22.37895	Balaenoptera acutorostrata	definite	1	PS80/3-track
+2012-08-04 08:05:19	76.72727	23.13884	Megaptera novaeangliae	definite	2	PS80/3-track
+2012-08-04 08:15:20	76.75323	23.20243	Megaptera novaeangliae	definite	2	PS80/3-track
+2012-08-04 08:18:58	76.76247	23.22554	Balaenoptera acutorostrata	probable	1	PS80/3-track
+2012-08-04 08:25:12	76.77828	23.26511	Megaptera novaeangliae	definite	1	PS80/3-track
+2012-08-04 08:27:13	76.78339	23.27771	Megaptera novaeangliae	definite	1	PS80/3-track
+2012-08-04 08:29:15	76.78847	23.29051	Megaptera novaeangliae	definite	2	PS80/3-track
+2012-08-04 08:48:16	76.83488	23.40585	Megaptera novaeangliae	possible	1	PS80/3-track
+2012-08-04 09:52:07	76.99013	23.79479	Balaenoptera acutorostrata	possible	1	PS80/3-track
+2012-08-04 13:21:45	77.53388	25.43119	Megaptera novaeangliae	definite	1	PS80/3-track
+2012-09-12 13:44:35	79.62475	41.3986	Large whale, unidentified	definite	1	PS80/3-track
+2012-09-16 11:27:33	81.68357	48.06628	Whale, unidentified	definite	4	PS80/3-track
+2012-09-16 11:32:27	81.69783	48.1288	Whale, unidentified	definite	5	PS80/3-track
+2012-09-16 11:40:19	81.72085	48.22997	Whale, unidentified	definite	2	PS80/3-track
+2012-09-16 11:41:40	81.72478	48.24755	Whale, unidentified	definite	2	PS80/3-track
+2012-09-16 11:44:47	81.73392	48.28825	Balaenoptera acutorostrata	possible	5	PS80/3-track
+2012-09-16 11:57:48	81.77175	48.45638	Whale, unidentified	definite	5	PS80/3-track
+2012-10-01 07:10:59	83.29882	3.2437	Monodon monocerus	definite	10	PS80/3-track

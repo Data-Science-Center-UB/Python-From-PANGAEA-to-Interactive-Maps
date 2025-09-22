@@ -1,0 +1,12 @@
+DATE/TIME	LATITUDE	LONGITUDE	Whale species	Certainty of identification	Individuals [#]	Event
+2024-07-13 17:13:41	73.3221	13.95475	Dolphins, unidentified	definite	5	PS143/2-track
+2024-07-14 12:45:43	76.65547	10.22653	Large whale, unidentified	definite	1	PS143/2-track
+2024-07-14 13:45:34	76.81598	10.02403	Balaenoptera physalus	probable	2	PS143/2-track
+2024-07-14 18:57:49	77.70048	8.85657	Large whale, unidentified	definite	2	PS143/2-track
+2024-07-14 23:42:13	78.51413	7.70727	Large whale, unidentified	definite	2	PS143/2-track
+2024-07-16 13:57:43	78.77058	5.81397	Large whale, unidentified	definite	2	PS143/2-track
+2024-07-16 15:47:10	78.60792	5.06452	Megaptera novaeangliae	definite	1	PS143/2-track
+2024-07-19 04:00:18	79.00525	8.79532	Megaptera novaeangliae	definite	1	PS143/2-track
+2024-07-20 05:08:59	79.13448	5.92845	Megaptera novaeangliae	definite	1	PS143/2-track
+2024-07-30 05:04:23	79.10012	4.57773	Whale, unidentified	definite	1	PS143/2-track
+2024-07-30 05:12:22	79.10737	4.62847	Megaptera novaeangliae	definite	1	PS143/2-track

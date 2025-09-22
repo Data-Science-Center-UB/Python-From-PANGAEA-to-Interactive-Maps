@@ -1,0 +1,20 @@
+DATE/TIME	LATITUDE	LONGITUDE	Whale species	Certainty of identification	Individuals [#]	Event
+2018-07-12 23:20:00	64.34152	4.32615	Whale, unidentified	definite	1	PS114-track
+2018-07-15 15:24:00	76.98338	4.69592	Large whale, unidentified	definite	1	PS114-track
+2018-07-15 22:25:00	78.3317	4.45958	Dolphins, unidentified	definite	4	PS114-track
+2018-07-15 22:50:00	78.41395	4.44458	Dolphins, unidentified	definite	1	PS114-track
+2018-07-15 23:30:00	78.54113	4.42075	Dolphins, unidentified	definite	3	PS114-track
+2018-07-16 00:09:00	78.66492	4.39865	Lagenorhynchus albirostris	probable	4	PS114-track
+2018-07-16 01:08:00	78.85363	4.36335	Lagenorhynchus albirostris	probable	1	PS114-track
+2018-07-16 01:40:00	78.95825	4.34312	Lagenorhynchus albirostris	probable	2	PS114-track
+2018-07-17 00:42:00	79.02438	4.32785	Balaenoptera musculus	definite	1	PS114-track
+2018-07-17 00:48:00	79.02422	4.33055	Balaenoptera musculus	definite	2	PS114-track
+2018-07-17 03:52:00	79.02318	4.26045	Large whale, unidentified	definite	1	PS114-track
+2018-07-19 16:07:00	78.99342	5.48567	Dolphins, unidentified	definite	5	PS114-track
+2018-07-19 17:16:00	78.91067	4.13267	Dolphins, unidentified	definite	3	PS114-track
+2018-07-28 16:31:00	79.65115	-17.31112	Baleen whale, unidentified	definite	1	PS114-track
+2018-07-28 16:54:00	79.67563	-17.1141	Balaena mysticetus	definite	1	PS114-track
+2018-07-29 00:06:00	79.70483	-16.79767	Balaena mysticetus	probable	2	PS114-track
+2018-07-29 00:54:00	79.78575	-16.48745	Balaena mysticetus	probable	3	PS114-track
+2018-08-01 18:08:00	73.29693	7.99465	Megaptera novaeangliae	definite	1	PS114-track
+2018-08-02 16:47:00	71.05367	17.16735	Physeter macrocephalus	probable	1	PS114-track

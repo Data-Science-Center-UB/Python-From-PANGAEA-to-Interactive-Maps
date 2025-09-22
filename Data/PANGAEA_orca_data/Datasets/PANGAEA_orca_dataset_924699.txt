@@ -1,0 +1,8 @@
+DATE/TIME	LATITUDE	LONGITUDE	Whale species	Certainty of identification	Individuals [#]	Event
+2016-09-10 13:31:00	75.14088	26.18963	Dolphins, unidentified	definite	5	PS101-track
+2016-09-10 17:10:00	75.84577	27.0575	Dolphins, unidentified	definite	2	PS101-track
+2016-09-10 17:19:00	75.87558	27.0962	Dolphins, unidentified	definite	3	PS101-track
+2016-09-11 02:47:00	77.74415	29.62818	Megaptera novaeangliae	probable	2	PS101-track
+2016-09-11 05:58:00	78.39113	30.59662	Whale, unidentified	definite	1	PS101-track
+2016-09-11 09:00:00	78.98395	31.5301	Megaptera novaeangliae	definite	10	PS101-track
+2016-09-11 09:04:00	78.99845	31.55198	Megaptera novaeangliae	definite	10	PS101-track

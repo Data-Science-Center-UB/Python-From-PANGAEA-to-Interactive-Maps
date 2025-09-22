@@ -1,0 +1,17 @@
+DATE/TIME	LATITUDE	LONGITUDE	Whale species	Certainty of identification	Individuals [#]	Event
+2023-05-27 01:30:46	69.89338	3.8022	Large whale, unidentified	definite	1	PS136-track
+2023-05-28 13:33:00	76.33158	5.09443	Balaenoptera borealis	probable	2	PS136-track
+2023-05-28 14:27:37	76.50575	5.0923	Whale, unidentified	definite	1	PS136-track
+2023-05-28 17:26:03	77.09625	5.08432	Whale, unidentified	definite	1	PS136-track
+2023-06-04 05:44:15	79.02135	10.6577	Whale, unidentified	definite	1	PS136-track
+2023-06-06 18:01:19	79.20768	6.40707	Whale, unidentified	definite	1	PS136-track
+2023-06-07 00:40:20	79.20772	6.30355	Large whale, unidentified	definite	1	PS136-track
+2023-06-15 01:16:25	78.95573	3.25956	Small whale, unidentified	definite	2	PS136-track
+2023-06-15 01:31:11	78.97456	3.40016	Monodon monoceros	definite	10	PS136-track
+2023-06-17 05:06:02	75.26039	7.20659	Dolphins, unidentified	definite	2	PS136-track
+2023-06-17 14:36:37	76.30592	9.68386	Orcinus orca	definite	5	PS136-track
+2023-06-17 18:17:48	74.70913	10.89224	Balaenoptera musculus	definite	1	PS136-track
+2023-06-17 20:13:53	74.42033	11.46854	Megaptera novaeangliae	definite	1	PS136-track
+2023-06-18 13:06:34	72.0284	16.896	Balaenoptera physalus	probable	1	PS136-track
+2023-06-18 18:26:15	71.3417	18.46491	Whale, unidentified	definite	2	PS136-track
+2023-06-18 19:26:12	71.22067	18.73602	Orcinus orca	definite	3	PS136-track

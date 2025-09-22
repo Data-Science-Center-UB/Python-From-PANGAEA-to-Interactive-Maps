@@ -1,0 +1,18 @@
+DATE/TIME	LATITUDE	LONGITUDE	Whale species	Certainty of identification	Individuals [#]	Event
+2015-08-19 14:39:00	78.02425	30.84725	Megaptera novaeangliae	definite	1	PS94-track
+2015-10-02 11:51:00	71.37157	32.25982	Dolphins, unidentified	definite	1	PS94-track
+2015-10-04 04:56:00	72.51808	14.55663	Balaenoptera acutorostrata	probable	1	PS94-track
+2015-10-04 16:44:00	73.90327	6.93475	Whale, unidentified	definite	3	PS94-track
+2015-10-06 09:36:00	74.87452	17.64127	Balaenoptera physalus	definite	4	PS94-track
+2015-10-06 09:50:00	74.86912	17.83235	Balaenoptera physalus	definite	3	PS94-track
+2015-10-06 11:16:00	74.83698	18.98892	Large whale, unidentified	definite	1	PS94-track
+2015-10-06 11:16:00	74.83687	18.9916	Large whale, unidentified	definite	3	PS94-track
+2015-10-06 11:18:00	74.83597	19.01317	Balaenoptera physalus	definite	2	PS94-track
+2015-10-06 13:55:00	74.86207	21.09913	Dolphins, unidentified	definite	5	PS94-track
+2015-10-09 13:28:00	70.48565	16.94092	Physeter macrocephalus	definite	1	PS94-track
+2015-10-09 13:28:00	70.48523	16.93945	Physeter macrocephalus	definite	1	PS94-track
+2015-10-09 13:34:00	70.47548	16.90637	Balaenoptera physalus	possible	2	PS94-track
+2015-10-09 13:45:00	70.45383	16.83117	Physeter macrocephalus	definite	1	PS94-track
+2015-10-09 14:09:00	70.41177	16.68778	Balaenoptera physalus	probable	3	PS94-track
+2015-10-09 14:57:00	70.32012	16.3985	Whale, unidentified	definite	3	PS94-track
+2015-10-11 13:52:00	63.96655	5.05783	Balaenoptera acutorostrata	definite	1	PS94-track

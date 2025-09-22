@@ -1,0 +1,45 @@
+DATE/TIME	LATITUDE	LONGITUDE	Whale species	Certainty of identification	Individuals [#]	Event
+2024-06-11 20:10:44	68.5247	3.69222	Orcinus orca	definite	1	PS143/1-track
+2024-06-12 16:54:30	72.22069	4.40197	Balaenoptera acutorostrata	definite	1	PS143/1-track
+2024-06-12 17:00:26	72.23807	4.40583	Balaenoptera acutorostrata	probable	1	PS143/1-track
+2024-06-12 18:00:11	72.41455	4.44465	Lagenorhyncus sp.	definite	2	PS143/1-track
+2024-06-12 18:15:48	72.46049	4.45511	Lagenorhynchus albirostris	probable	5	PS143/1-track
+2024-06-12 18:32:50	72.5111	4.4665	Lagenorhynchus albirostris	probable	4	PS143/1-track
+2024-06-12 18:56:34	72.5835	4.48363	Dolphins, unidentified	definite	5	PS143/1-track
+2024-06-12 21:53:55	73.12179	4.60428	Large whale, unidenified	definite	1	PS143/1-track
+2024-06-13 01:24:37	73.76134	4.75206	Balaenoptera physalus	definite	2	PS143/1-track
+2024-06-13 02:27:58	73.95226	4.79722	Balaenoptera physalus	possible	2	PS143/1-track
+2024-06-13 03:27:59	74.12886	4.83972	Balaenoptera physalus	probable	1	PS143/1-track
+2024-06-14 03:14:13	78.06698	5.05173	Orcinus orca	possible	4	PS143/1-track
+2024-06-22 21:46:05	79.13312	6.09247	Balaenoptera musculus	probable	1	PS143/1-track
+2024-06-22 22:02:55	79.13287	6.09315	Balaenoptera musculus	possible	2	PS143/1-track
+2024-06-23 06:41:10	79.05222	6.49087	Balaenoptera musculus	definite	1	PS143/1-track
+2024-06-23 15:34:16	78.88478	9.04748	Megaptera novaeangliae	definite	1	PS143/1-track
+2024-06-24 02:03:14	78.04373	12.72563	Balaenoptera acutorostrata	definite	2	PS143/1-track
+2024-06-24 02:15:32	78.04802	12.84097	Balaenoptera acutorostrata	possible	1	PS143/1-track
+2024-06-24 02:20:06	78.04963	12.8842	Balaenoptera acutorostrata	definite	1	PS143/1-track
+2024-06-24 02:31:46	78.0536	12.99007	Balaenoptera acutorostrata	possible	1	PS143/1-track
+2024-06-24 03:06:06	78.05967	13.12447	Balaenoptera acutorostrata	definite	1	PS143/1-track
+2024-06-24 14:50:52	78.09667	12.41448	Whale, unidentified	definite	1	PS143/1-track
+2024-06-24 16:01:22	78.13225	11.439	Whale, unidentified	definite	1	PS143/1-track
+2024-06-24 16:29:22	78.16715	11.12945	Whale, unidentified	definite	1	PS143/1-track
+2024-06-25 05:03:28	79.19596	5.93333	Baleen whale, unidentified	definite	1	PS143/1-track
+2024-06-25 09:57:55	79.5949	5.20812	Balaenoptera physalus	probable	1	PS143/1-track
+2024-06-25 10:21:15	79.59473	5.21113	Balaenoptera physalus	definite	2	PS143/1-track
+2024-06-28 04:58:10	79.0836	5.81417	Whale, unidentified	definite	1	PS143/1-track
+2024-06-30 09:06:11	79.06705	6.3783	Large whale, unidentified	definite	1	PS143/1-track
+2024-06-30 12:21:00	79.05857	6.55053	Monodon monocerus	probable	1	PS143/1-track
+2024-06-30 15:02:21	79.05768	6.56775	Balaenoptera physalus	probable	2	PS143/1-track
+2024-06-30 16:42:41	79.05628	6.44057	Balaenoptera physalus	probable	1	PS143/1-track
+2024-06-30 16:48:47	79.05598	6.34477	Whale, unidentified	definite	1	PS143/1-track
+2024-07-01 04:18:07	79.0422	4.12397	Balaenoptera acutorostrata	definite	2	PS143/1-track
+2024-07-04 09:27:49	79.07387	4.12277	Megaptera novaeangliae	definite	1	PS143/1-track
+2024-07-05 05:11:07	79.07378	4.11798	Baleen whale, unidentified	definite	1	PS143/1-track
+2024-07-07 03:43:44	77.1018	7.93093	Large whale, unidentified	definite	1	PS143/1-track
+2024-07-07 03:55:05	77.07348	7.98122	Baleen whale, unidentified	definite	1	PS143/1-track
+2024-07-07 06:24:13	76.6863	8.6642	Balaenoptera physalus	possible	1	PS143/1-track
+2024-07-07 15:45:43	75.17703	11.15068	Balaenoptera physalus	probable	2	PS143/1-track
+2024-07-07 16:41:40	75.0258	11.38627	Balaenoptera acutorostrata	probable	1	PS143/1-track
+2024-07-07 17:19:19	74.92325	11.54478	Whale, unidentified	definite	1	PS143/1-track
+2024-07-07 19:23:01	74.58353	12.06232	Megaptera novaeangliae	definite	1	PS143/1-track
+2024-07-08 11:51:17	72.15518	16.60308	Balaenoptera acutorostrata	definite	2	PS143/1-track

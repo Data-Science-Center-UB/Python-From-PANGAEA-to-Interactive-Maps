@@ -1,0 +1,16 @@
+DATE/TIME	LATITUDE	LONGITUDE	Whale species	Certainty of identification	Individuals [#]	Event
+2014-07-08 08:43:00	72.64378	17.75687	Orcinus orca	definite	5	PS86-track
+2014-07-08 09:59:00	72.90453	17.53492	Megaptera novaeangliae	definite	1	PS86-track
+2014-08-01 01:40:00	77.5439	8.5954	Large whale, unidentified	definite	1	PS86-track
+2014-08-01 05:10:00	77.1608	11.48045	Dolphins, unidentified	definite	4	PS86-track
+2014-08-01 05:14:00	77.15423	11.52858	Dolphins, unidentified	definite	3	PS86-track
+2014-08-01 05:55:00	77.03992	11.85458	Balaenoptera musculus	definite	1	PS86-track
+2014-08-01 11:00:00	76.21893	13.31445	Large whale, unidentified	definite	1	PS86-track
+2014-08-01 11:04:00	76.20487	13.33558	Large whale, unidentified	definite	1	PS86-track
+2014-08-01 22:14:00	74.03685	15.72005	Dolphins, unidentified	definite	20	PS86-track
+2014-08-01 23:34:00	73.76915	15.58235	Dolphins, unidentified	definite	20	PS86-track
+2014-08-02 00:08:00	73.65553	15.52432	Dolphins, unidentified	definite	3	PS86-track
+2014-08-02 12:50:00	71.5306	16.23207	Dolphins, unidentified	definite	20	PS86-track
+2014-08-02 13:04:00	71.49732	16.33537	Dolphins, unidentified	definite	5	PS86-track
+2014-08-02 13:47:00	71.39822	16.64487	Balaenoptera physalus	probable	1	PS86-track
+2014-08-02 13:50:00	71.39117	16.66642	Physeter macrocephalus	definite	2	PS86-track

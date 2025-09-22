@@ -1,0 +1,20 @@
+DATE/TIME	LATITUDE	LONGITUDE	Whale species	Certainty of identification	Individuals [#]	Event
+2017-05-25 17:22:00	58.1091	4.45383	Orcinus orca	definite	5	PS106/1-track
+2017-05-29 07:12:00	72.45122	5.49032	Balaenoptera acutorostrata	possible	1	PS106/1-track
+2017-05-30 11:56:00	76.37647	8.69258	Large whale, unidentified	definite	2	PS106/1-track
+2017-05-31 20:23:00	80.26253	8.73638	Balaenoptera acutorostrata	probable	1	PS106/1-track
+2017-06-18 04:26:00	80.47348	11.42878	Balaenoptera acutorostrata	probable	1	PS106/1-track
+2017-06-19 16:34:00	78.70537	5.15513	Balaenoptera acutorostrata	probable	3	PS106/1-track
+2017-06-19 16:38:00	78.70605	5.17398	Whale, unidentified	definite	1	PS106/1-track
+2017-06-19 17:07:00	78.71638	5.31797	Megaptera novaeangliae	possible	2	PS106/1-track
+2017-06-19 17:18:00	78.72018	5.37553	Large whale, unidentified	definite	2	PS106/1-track
+2017-06-19 17:45:00	78.72973	5.51537	Large whale, unidentified	definite	1	PS106/1-track
+2017-06-20 01:00:00	78.8759	7.65698	Dolphins, unidentified	definite	5	PS106/1-track
+2017-06-20 07:23:00	78.99102	9.33697	Lagenorhynchus acutus	definite	2	PS106/1-track
+2017-06-20 07:49:00	78.99135	9.33608	Whale, unidentified	definite	3	PS106/1-track
+2017-06-20 21:46:00	78.0901	11.78398	Whale, unidentified	definite	3	PS106/1-track
+2017-06-20 21:46:00	78.09012	11.78505	Whale, unidentified	definite	2	PS106/1-track
+2017-06-20 21:49:00	78.0904	11.8098	Megaptera novaeangliae	probable	1	PS106/1-track
+2017-06-20 23:00:00	78.09672	12.37462	Large whale, unidentified	definite	1	PS106/1-track
+2017-06-20 23:00:00	78.09673	12.37693	Megaptera novaeangliae	possible	1	PS106/1-track
+2017-06-20 23:02:00	78.09692	12.39215	Megaptera novaeangliae	possible	1	PS106/1-track

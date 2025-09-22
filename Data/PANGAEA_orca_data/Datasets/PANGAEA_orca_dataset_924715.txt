@@ -1,0 +1,21 @@
+DATE/TIME	LATITUDE	LONGITUDE	Whale species	Certainty of identification	Individuals [#]	Event
+2007-07-09 19:04:00	78.038	11.75262	Megaptera novaeangliae	definite	1	PS70/1c-track
+2007-07-09 19:04:00	78.038	11.75262	Physeter macrocephalus	probable	3	PS70/1c-track
+2007-07-09 19:04:00	78.038	11.75262	Balaenoptera physalus	possible	1	PS70/1c-track
+2007-07-11 18:40:00	79.11137	4.42955	Balaenoptera physalus	definite	2	PS70/1c-track
+2007-07-12 04:16:00	79.01552	5.8375	Balaenoptera physalus	definite	1	PS70/1c-track
+2007-07-12 05:29:00	78.83303	5.52328	Balaenoptera physalus	definite	1	PS70/1c-track
+2007-07-12 07:15:00	78.61758	5.13798	Balaenoptera physalus	definite	2	PS70/1c-track
+2007-07-12 07:15:00	78.61758	5.13798	Balaenoptera acutorostrata	definite	1	PS70/1c-track
+2007-07-12 19:00:00	78.98292	4.40308	Balaena mysticetus	definite	1	PS70/1c-track
+2007-07-12 19:00:00	78.98292	4.40308	Balaenoptera physalus	definite	1	PS70/1c-track
+2007-07-12 19:00:00	78.98292	4.40308	Balaenoptera musculus	definite	1	PS70/1c-track
+2007-07-12 19:00:00	78.98292	4.40308	Lagenorhynchus acutus	definite	1	PS70/1c-track
+2007-07-12 19:00:00	78.98292	4.40308	Globicephala melas	definite	1	PS70/1c-track
+2007-07-15 04:21:00	78.91843	4.99932	Balaenoptera physalus	definite	1	PS70/1c-track
+2007-07-15 04:45:00	78.91683	4.99842	Balaena mysticetus	definite	1	PS70/1c-track
+2007-07-15 08:30:00	79.10408	4.39148	Balaenoptera physalus	definite	2	PS70/1c-track
+2007-07-15 08:59:00	79.12483	4.78318	Balaenoptera physalus	definite	5	PS70/1c-track
+2007-07-16 13:57:00	79.22925	5.02003	Balaenoptera physalus	definite	5	PS70/1c-track
+2007-07-17 19:00:00	79.5876	5.19435	Balaenoptera physalus	definite	1	PS70/1c-track
+2007-07-17 19:00:00	79.5876	5.19435	Balaena mysticetus	probable	1	PS70/1c-track

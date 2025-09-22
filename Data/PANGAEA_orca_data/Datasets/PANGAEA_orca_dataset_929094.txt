@@ -1,0 +1,53 @@
+DATE/TIME	LATITUDE	LONGITUDE	Whale species	Certainty of identification	Individuals [#]	Event
+2012-06-15 04:30:08	56.15197	6.05465	Phocoena phocoena	definite	1.0	PS80/1-track
+2012-06-15 05:00:03	56.23807	5.98108	Phocoena phocoena	definite	1.0	PS80/1-track
+2012-06-15 05:30:23	56.32548	5.90398	Phocoena phocoena	definite	1.0	PS80/1-track
+2012-06-15 09:21:09	57.00785	5.37783	Delphinus delphis	probable		PS80/1-track
+2012-06-16 13:30:54	62.23645	4.19603	Balaenoptera acutorostrata	definite	1.0	PS80/1-track
+2012-06-16 13:31:54	62.23962	4.19607	Balaenoptera acutorostrata	definite	1.0	PS80/1-track
+2012-06-16 17:27:37	63.0109	4.25538	Small whale, unidentified	definite	3.0	PS80/1-track
+2012-06-16 19:09:22	63.33803	4.4324	Small whale, unidentified	definite	2.0	PS80/1-track
+2012-06-16 20:35:42	63.60517	4.57863	Balaenoptera acutorostrata	definite	2.0	PS80/1-track
+2012-06-17 03:49:05	64.9886	5.36265	Orcinus orca	definite	3.0	PS80/1-track
+2012-06-17 04:56:47	65.09357	5.41838	Orcinus orca	definite	5.0	PS80/1-track
+2012-06-17 05:07:34	65.12758	5.43778	Orcinus orca	definite	10.0	PS80/1-track
+2012-06-17 10:01:44	66.04568	5.96108	Orcinus orca	definite	3.0	PS80/1-track
+2012-06-17 10:51:05	66.19873	6.04967	Large whale, unidentified	definite	1.0	PS80/1-track
+2012-06-17 19:47:53	67.7177	6.63415	Balaenoptera physalus	definite	1.0	PS80/1-track
+2012-06-17 20:51:01	67.90987	6.79482	Large whale, unidentified	definite	1.0	PS80/1-track
+2012-06-17 20:58:29	67.93298	6.81398	Orcinus orca	definite	20.0	PS80/1-track
+2012-06-17 21:12:48	67.97708	6.85102	Physeter macrocephalus	definite	1.0	PS80/1-track
+2012-06-17 21:24:36	68.01298	6.88153	Physeter macrocephalus	definite	1.0	PS80/1-track
+2012-06-17 21:24:48	68.0136	6.88208	Physeter macrocephalus	definite	1.0	PS80/1-track
+2012-06-18 17:29:53	71.1419	8.69827	Lagenorhynchus albirostris	definite	6.0	PS80/1-track
+2012-06-18 20:19:02	71.66357	9.00063	Lagenorhynchus albirostris	definite	10.0	PS80/1-track
+2012-06-19 00:08:14	72.36067	9.40353	Dolphins, unidentified	definite	2.0	PS80/1-track
+2012-06-19 08:31:07	73.69583	10.22028	Lagenorhynchus albirostris	definite	3.0	PS80/1-track
+2012-06-20 04:56:24	77.19657	11.66867	Balaenoptera physalus	probable	1.0	PS80/1-track
+2012-06-20 08:02:29	77.73617	10.63803	Balaenoptera physalus	definite	2.0	PS80/1-track
+2012-06-20 08:15:49	77.77615	10.54277	Balaenoptera physalus	definite	2.0	PS80/1-track
+2012-06-20 13:21:28	78.66368	9.60558	Balaenoptera physalus	probable	2.0	PS80/1-track
+2012-06-20 13:27:58	78.68482	9.59195	Balaenoptera musculus	probable	1.0	PS80/1-track
+2012-06-21 02:28:08	78.8549	8.12963	Large whale, unidentified	definite	1.0	PS80/1-track
+2012-06-22 06:30:24	78.83398	8.2844	Large whale, unidentified	definite	1.0	PS80/1-track
+2012-06-22 11:08:55	78.8336	7.00092	Balaenoptera physalus	probable	1.0	PS80/1-track
+2012-06-22 11:41:45	78.83365	7.00178	Balaenoptera physalus	probable	1.0	PS80/1-track
+2012-06-22 12:15:38	78.83345	7.00073	Balaenoptera physalus	definite	1.0	PS80/1-track
+2012-06-22 12:38:41	78.83348	7.0009	Balaenoptera physalus	probable	1.0	PS80/1-track
+2012-06-22 16:39:51	78.83373	6.66398	Balaenoptera physalus	definite	1.0	PS80/1-track
+2012-06-23 00:10:48	78.83328	6.00117	Balaenoptera physalus	probable	1.0	PS80/1-track
+2012-06-23 14:54:31	78.84782	5.7658	Balaenoptera physalus	definite	1.0	PS80/1-track
+2012-06-24 00:45:42	78.7501	5.50055	Large whale, unidentified	definite	1.0	PS80/1-track
+2012-06-24 01:13:25	78.74978	5.50077	Balaenoptera physalus	probable	1.0	PS80/1-track
+2012-06-24 22:49:42	78.83315	4.89817	Balaenoptera physalus	definite	1.0	PS80/1-track
+2012-06-25 14:05:26	78.83298	4.33457	Large whale, unidentified	definite	2.0	PS80/1-track
+2012-07-11 07:13:03	78.5817	-0.99638	Balaenoptera physalus	definite	1.0	PS80/1-track
+2012-07-11 09:45:08	78.66035	-1.37552	Balaenoptera physalus	probable	1.0	PS80/1-track
+2012-07-11 09:55:19	78.68183	-1.46902	Balaenoptera physalus	definite	3.0	PS80/1-track
+2012-07-11 11:04:09	78.73928	-0.68453	Balaenoptera physalus	probable	1.0	PS80/1-track
+2012-07-12 10:42:08	78.56155	4.54147	Large whale, unidentified	definite	1.0	PS80/1-track
+2012-07-13 09:23:33	78.06143	7.7461	Balaenoptera borealis	definite	2.0	PS80/1-track
+2012-07-13 10:35:25	78.06142	7.75323	Balaenoptera physalus	definite	1.0	PS80/1-track
+2012-07-13 17:53:16	77.91798	8.6413	Physeter macrocephalus	definite	1.0	PS80/1-track
+2012-07-13 18:32:24	77.90882	8.63652	Physeter macrocephalus	definite	2.0	PS80/1-track
+2012-07-13 18:39:35	77.90678	8.63665	Physeter macrocephalus	definite	2.0	PS80/1-track

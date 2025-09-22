@@ -1,0 +1,9 @@
+DATE/TIME	LATITUDE	LONGITUDE	Whale species	Certainty of identification	Individuals [#]	Event
+2023-08-04 14:39:15	74.60292	15.44773	Balaenoptera physalus	probable	1	PS138-track
+2023-08-05 03:40:01	77.32225	12.7731	Balaenoptera physalus	definite	1	PS138-track
+2023-08-05 03:55:28	77.37383	12.75683	Balaenoptera physalus	probable	1	PS138-track
+2023-08-05 04:34:17	77.5127	12.71058	Small whale, unidentified	definite	5	PS138-track
+2023-08-05 23:38:55	78.83665	9.31502	Lagenorhynchus albirostris	possible	3	PS138-track
+2023-08-07 01:02:16	81.53667	22.18683	Balaenoptera physalus	possible	1	PS138-track
+2023-08-07 01:21:22	81.58043	22.51803	Balaenoptera physalus	probable	3	PS138-track
+2023-09-23 15:17:11	81.602	20.44742	Large whale, unidentified	definite	1	PS138-track

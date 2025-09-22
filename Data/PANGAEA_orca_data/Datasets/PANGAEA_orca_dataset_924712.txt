@@ -1,0 +1,4 @@
+DATE/TIME	LATITUDE	LONGITUDE	Whale species	Certainty of identification	Individuals [#]	Event
+2008-08-23 22:28:00	74.82802	-121.23173	Balaena mysticetus	definite	2	PS72/3-track
+2008-08-23 22:28:00	74.82802	-121.23173	Balaena mysticetus	definite	2	PS72/3-track
+2008-08-27 01:22:00	69.74892	-137.88905	Balaena mysticetus	definite	2	PS72/3-track

@@ -1,0 +1,49 @@
+DATE/TIME	LATITUDE	LONGITUDE	Whale species	Certainty of identification	Individuals [#]	Event
+2015-05-21 02:51:00	59.43912	3.45038	Balaenoptera acutorostrata	definite	2	PS92-track
+2015-05-21 03:19:00	59.51962	3.43712	Orcinus orca	definite	5	PS92-track
+2015-05-24 02:40:00	70.05943	7.32135	Megaptera novaeangliae	definite	1	PS92-track
+2015-05-24 15:12:00	70.2437	13.72962	Orcinus orca	definite	5	PS92-track
+2015-05-25 03:28:00	72.2516	12.8803	Orcinus orca	definite	4	PS92-track
+2015-05-25 23:01:00	75.70965	10.58835	Balaenoptera physalus	definite	1	PS92-track
+2015-05-26 00:23:00	75.88853	10.45792	Balaenoptera physalus	probable	1	PS92-track
+2015-05-26 12:51:00	77.89942	8.84423	Balaenoptera physalus	definite	1	PS92-track
+2015-05-27 00:55:00	80.06457	9.23818	Large whale, unidentified	definite	2	PS92-track
+2015-05-27 01:31:00	80.11475	9.79403	Balaenoptera physalus	definite	1	PS92-track
+2015-06-24 11:27:00	80.25317	9.65712	Balaenoptera physalus	probable	1	PS92-track
+2015-06-24 11:38:00	80.25178	9.81572	Large whale, unidentified	definite	1	PS92-track
+2015-06-24 11:41:00	80.25197	9.8651	Large whale, unidentified	definite	1	PS92-track
+2015-06-24 23:26:00	80.23765	10.69173	Balaenoptera physalus	possible	1	PS92-track
+2015-06-25 01:29:00	80.14552	9.36302	Large whale, unidentified	definite	1	PS92-track
+2015-06-25 02:54:00	80.09072	8.50277	Balaenoptera acutorostrata	definite	1	PS92-track
+2015-06-25 08:19:00	80.11123	8.44412	Balaenoptera musculus	possible	1	PS92-track
+2015-06-25 17:31:00	80.29085	8.94368	Whale, unidentified	definite	1	PS92-track
+2015-06-25 19:59:00	80.29628	10.4983	Balaenoptera physalus	possible	3	PS92-track
+2015-06-25 22:35:00	80.2711	10.01102	Large whale, unidentified	definite	3	PS92-track
+2015-06-25 22:52:00	80.26918	10.2395	Balaenoptera musculus	definite	3	PS92-track
+2015-06-25 23:04:00	80.2679	10.39063	Balaena mysticetus	probable	2	PS92-track
+2015-06-25 23:04:00	80.26785	10.39592	Large whale, unidentified	definite	1	PS92-track
+2015-06-25 23:18:00	80.25583	10.51807	Balaenoptera physalus	definite	1	PS92-track
+2015-06-26 00:48:00	80.12432	10.12745	Balaenoptera physalus	probable	1	PS92-track
+2015-06-26 01:46:00	80.06537	9.45687	Balaenoptera physalus	possible	2	PS92-track
+2015-06-26 14:01:00	80.01138	10.36298	Balaenoptera musculus	probable	2	PS92-track
+2015-06-26 14:22:00	80.03372	10.47068	Balaenoptera musculus	definite	2	PS92-track
+2015-06-26 14:49:00	80.03547	10.48657	Balaenoptera musculus	probable	1	PS92-track
+2015-06-26 15:12:00	80.0718	10.69855	Balaenoptera musculus	probable	1	PS92-track
+2015-06-26 15:32:00	80.10155	10.87413	Large whale, unidentified	definite	1	PS92-track
+2015-06-26 16:32:00	80.13237	11.13243	Large whale, unidentified	definite	1	PS92-track
+2015-06-26 16:55:00	80.0952	10.93555	Large whale, unidentified	definite	2	PS92-track
+2015-06-26 17:32:00	80.03428	10.615	Large whale, unidentified	definite	3	PS92-track
+2015-06-26 17:43:00	80.0154	10.516	Balaenoptera acutorostrata	definite	1	PS92-track
+2015-06-26 20:30:00	80.07543	10.90607	Balaenoptera physalus	probable	2	PS92-track
+2015-06-26 20:53:00	80.11592	11.10517	Balaenoptera musculus	definite	1	PS92-track
+2015-06-26 22:03:00	80.06765	10.94123	Balaenoptera physalus	probable	1	PS92-track
+2015-06-26 22:37:00	80.0084	10.66192	Balaenoptera physalus	definite	2	PS92-track
+2015-06-27 01:22:00	80.04632	10.9062	Large whale, unidentified	definite	1	PS92-track
+2015-06-27 01:47:00	80.08997	11.10358	Large whale, unidentified	definite	1	PS92-track
+2015-06-27 01:54:00	80.10362	11.16583	Balaenoptera physalus	definite	1	PS92-track
+2015-06-27 02:43:00	80.09122	11.16687	Balaenoptera physalus	definite	1	PS92-track
+2015-06-27 18:42:00	78.18705	9.62613	Balaenoptera physalus	definite	1	PS92-track
+2015-06-27 18:47:00	78.177	9.63057	Balaenoptera musculus	definite	1	PS92-track
+2015-06-27 18:57:00	78.15652	9.63828	Balaenoptera physalus	probable	1	PS92-track
+2015-06-27 23:13:00	78.01075	12.03687	Balaenoptera acutorostrata	definite	1	PS92-track
+2015-06-27 23:49:00	78.0272	12.3813	Balaenoptera musculus	definite	1	PS92-track

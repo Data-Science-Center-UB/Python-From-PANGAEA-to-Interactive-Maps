@@ -1,0 +1,10 @@
+DATE/TIME	LATITUDE	LONGITUDE	Whale species	Certainty of identification	Individuals [#]	Event
+2007-06-24 00:30:00	70.95633	17.9355	Megaptera novaeangliae	definite	2	PS70/1b-track
+2007-06-24 02:58:00	71.2815	16.96033	Small whale, unidentified	definite	10	PS70/1b-track
+2007-06-30 07:31:00	72.0053	14.71715	Physeter macrocephalus	definite	1	PS70/1b-track
+2007-07-01 07:16:00	72.00138	14.71773	Physeter macrocephalus	possible	1	PS70/1b-track
+2007-07-01 16:47:00	72.00177	14.71738	Megaptera novaeangliae	probable	3	PS70/1b-track
+2007-07-02 06:00:00	72.00302	14.72997	Physeter macrocephalus	probable	2	PS70/1b-track
+2007-07-02 13:34:00	72.003	14.7325	Physeter macrocephalus	probable	1	PS70/1b-track
+2007-07-02 18:05:00	72.00298	14.73827	Physeter macrocephalus	definite	1	PS70/1b-track
+2007-07-05 19:58:00	72.00488	14.72935	Physeter macrocephalus	definite	1	PS70/1b-track
