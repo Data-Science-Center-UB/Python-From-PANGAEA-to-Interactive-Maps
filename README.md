@@ -1,4 +1,6 @@
-This repository provides hands-on, self-learning notebooks developed for the workshop "From Data to Interactive Maps: Visualization Workflows with Geospatial Data from PANGAEA" hosted by the Data Science Center (DSC) at the University of Bremen.
+# Python: From PANGAEA to Interactive Maps
+
+This repository offers hands-on, self-learning notebooks that demonstrate Python workflows for visualizing geospatial data from PANGAEA (Data Publisher for Earth & Environmental Science). It contains three notebooks: retrieving data via the PANGAEA API, preprocessing the data, and visualizing the results. The notebooks build upon each other and are intended to be completed in order.
 
 The repository consists of:
 
