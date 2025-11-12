@@ -5,9 +5,9 @@ This repository offers hands-on, self-learning notebooks that demonstrate Python
 The repository consists of:
 
 /Notebooks_Exercises (Jupyter notebooks including unsolved exercises) <br>
-/Notebooks_Solutions (Jupyter notebooks including exercises with solutions)
-/Images (images loaded in the Jupyter notebooks)
-/Data (datasets downloaded and loaded in the Jupyter notebooks)
+/Notebooks_Solutions (Jupyter notebooks including exercises with solutions) <br>
+/Images (images loaded in the Jupyter notebooks) <br>
+/Data (datasets downloaded and loaded in the Jupyter notebooks) <br>
 /Plots (visualizations created in the Jupyter notebooks)
 
 >About the project
